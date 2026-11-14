@@ -1,0 +1,24 @@
+{
+  "id": "org.example.streamtestlabels",
+  "version": "1.0.0",
+  "name": "Stream Test Sample",
+  "description": "Public Big Buck Bunny sample for stream diagnostics",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt1254207"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "samples",
+      "name": "Public Sample"
+    }
+  ]
+}

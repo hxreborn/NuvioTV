@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "name": "Public sample",
+      "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    }
+  ]
+}
